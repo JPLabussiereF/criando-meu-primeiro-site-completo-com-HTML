@@ -11,7 +11,7 @@ body {
     width: 1200px;
     display: flex;
     margin: 0 auto;
-    background-color: aquamarine;
+    background-color: #f1f1f1;
 }
 .main {
     display: flex;
@@ -20,19 +20,20 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: #f1f1f1;
     padding: 10px 20px 0px;
+    border: 2px inset ;
 }
 .header {
-    background-color: rgb(5, 108, 108);
+    background-color: #f1f1f1;
     min-height: 150px;
 }
 .content {
-    background-color: white;
+    background-color: #f1f1f1;
     min-height: 300px;
     padding: 20px;
 }
 .footer {
-    background-color: rgb(99, 56, 240);
+    background-color: #f1f1f1;
     min-height: 150px;
 }
